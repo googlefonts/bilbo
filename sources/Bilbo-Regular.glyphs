@@ -8,7 +8,10 @@ g,
 "/ahookabove/amacron/aogonek/cacute/ccaron/dcaron/nacute/ncaron/ohungarumlaut/omacron/racute/rcaron/sacute/scedilla/tcaron/tcedilla/uhungarumlaut/umacron/uogonek/uring/wacute",
 "áàâäã/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adotbelow/ahookabove/amacron/aogonek",
 abcdefghijklmnopqrstuvwxyz,
-"ABCDEFGHIJKLMNOPQRSTUVWXYZ\012\012TULIPAN/space ATUN"
+"ABCDEFGHIJKLMNOPQRSTUVWXYZ\012\012TULIPAN/space ATUN",
+"/nbspace/Ccaron",
+"/space A",
+B
 );
 copyright = "Copyright 2011 The Bilbo Project Authors (https://github.com/googlefonts/bilbo)";
 customParameters = (
@@ -5827,7 +5830,7 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2021-03-03 20:55:47 +0000";
+lastChange = "2021-03-03 22:12:35 +0000";
 layers = (
 {
 background = {
