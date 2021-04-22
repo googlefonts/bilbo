@@ -1,5 +1,5 @@
 {
-.appVersion = "1356";
+.appVersion = "1342";
 DisplayStrings = (
 "/u.ss01/uacute.ss01",
 "/w.ss01",
@@ -38,7 +38,6 @@ DisplayStrings = (
 "/caroncomb.case",
 "/brevecomb.case",
 "/ringcomb.case",
-"/hookabovecomb.case",
 "/commaturnedabovecomb.case",
 "/circumflexcomb_tildecomb",
 "/hookabovecomb/brevecomb_hookabovecomb.case",
@@ -63,7 +62,6 @@ DisplayStrings = (
 "/caron.alt/caroncomb.alt/dcaron",
 "u/dotbelowcomb/udotbelow",
 "/a.ss01 ab/b.ss01 c/c.ss01 A/A.ss01",
-"/acutecomb.case",
 "/dieresiscomb.case OOÖ",
 "Ç",
 "/brevecomb_gravecomb.case/Abrevegrave",
@@ -70526,5 +70524,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 200;
+versionMinor = 100;
 }
